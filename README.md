@@ -37,10 +37,13 @@ detailed proposal for it, you proceed as follows:
 3. To write a proposal, you should:
     
    a. Fork this repository.
+
    b. Copy the template `proposals/EP000-template.md` to 
       `proposals/EP000-[proposal-title].md` where `[proposal-title]` should be a
       informative but concise title that describes the contents of the proposal.
+
    c. Address the questions in the template in a clear and detailed manner.
+
    d. Submit a pull request once you are done.
 
 # Lifecycle of an EP
@@ -68,7 +71,9 @@ Proposals in this category will also be assigned one of three priority labels:
 
 - **low**: Indicates that the proposal is relatively unimportant and can be
   implemented at any time.
+
 - **medium**: Indicates that the proposal may be implemented in the coming weeks.
+
 - **high**: Indicates that the proposal may be implemented within the next couple 
   of days or within the next week.
 
