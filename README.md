@@ -39,7 +39,7 @@ detailed proposal for it, you proceed as follows:
    a. Fork this repository.
 
    b. Copy the template `proposals/EP000-template.md` to 
-      `proposals/EP000-[proposal-title].md` where `[proposal-title]` should be a
+      `proposals/EP000-[proposal-title].md` where `[proposal-title]` should be an
       informative but concise title that describes the contents of the proposal.
 
    c. Address the questions in the template in a clear and detailed manner.
